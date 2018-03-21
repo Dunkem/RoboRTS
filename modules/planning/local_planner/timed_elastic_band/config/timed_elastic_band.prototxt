@@ -35,7 +35,7 @@ kinematics_opt {
 
 tolerance_opt {
     xy_goal_tolerance: 0.5
-    yaw_goal_tolerance: 3.14
+    yaw_goal_tolerance: 0.1
     free_goal_vel: False
 }
 
